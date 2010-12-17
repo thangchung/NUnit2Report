@@ -10,32 +10,30 @@
     <RecentFiles>
       <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:i18n.xsl" caret="0" fromTop="0" />
       <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:Traductions.xml" caret="0" fromTop="0" />
-      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="12959" fromTop="16" />
       <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-NoFrame.xsl" caret="5463" fromTop="13" />
       <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="267" fromTop="0" />
-      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="15511" fromTop="74" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="18668" fromTop="17" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="3221" fromTop="16" />
     </RecentFiles>
     <RecentEdits>
-      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="35637" fromTop="4" />
-      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="35637" fromTop="28" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="35639" fromTop="4" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="35639" fromTop="28" />
       <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="214" fromTop="1" />
-      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="18842" fromTop="10" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="18844" fromTop="10" />
       <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="16207" fromTop="71" />
       <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="19033" fromTop="6" />
       <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="530" fromTop="8" />
       <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="18278" fromTop="13" />
-      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="18403" fromTop="14" />
-      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="3234" fromTop="17" />
-      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="19048" fromTop="16" />
-      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="8064" fromTop="17" />
-      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="18626" fromTop="9" />
-      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="7811" fromTop="17" />
-      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="35643" fromTop="15" />
-      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="36259" fromTop="32" />
-      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="8538" fromTop="20" />
-      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="8830" fromTop="25" />
-      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="12997" fromTop="17" />
-      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="13162" fromTop="20" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="19050" fromTop="16" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="8066" fromTop="17" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="18628" fromTop="9" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="7813" fromTop="17" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="35645" fromTop="15" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="36261" fromTop="32" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="8540" fromTop="20" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="8832" fromTop="25" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="12999" fromTop="17" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="13164" fromTop="20" />
       <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="1371" fromTop="31" />
       <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="30" fromTop="1" />
       <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="6357" fromTop="10" />
@@ -46,6 +44,8 @@
       <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="16505" fromTop="15" />
       <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="7164" fromTop="13" />
       <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="195" fromTop="5" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="3221" fromTop="16" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="18398" fromTop="16" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
