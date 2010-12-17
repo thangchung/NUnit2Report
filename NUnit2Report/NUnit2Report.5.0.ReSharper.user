@@ -1,0 +1,71 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:i18n.xsl" caret="0" fromTop="0" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:Traductions.xml" caret="0" fromTop="0" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="12959" fromTop="16" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-NoFrame.xsl" caret="5463" fromTop="13" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="267" fromTop="0" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="15511" fromTop="74" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="35637" fromTop="4" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="35637" fromTop="28" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="214" fromTop="1" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="18842" fromTop="10" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="16207" fromTop="71" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="19033" fromTop="6" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="530" fromTop="8" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="18278" fromTop="13" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="18403" fromTop="14" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="3234" fromTop="17" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="19048" fromTop="16" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="8064" fromTop="17" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="18626" fromTop="9" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="7811" fromTop="17" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="35643" fromTop="15" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:NUnit-Frame.xsl" caret="36259" fromTop="32" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="8538" fromTop="20" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="8830" fromTop="25" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="12997" fromTop="17" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/d:xsl/f:toolkit.xsl" caret="13162" fromTop="20" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="1371" fromTop="31" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="30" fromTop="1" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="6357" fromTop="10" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="6618" fromTop="14" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="18263" fromTop="3" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="17753" fromTop="11" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="18466" fromTop="16" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="16505" fromTop="15" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="7164" fromTop="13" />
+      <File id="2E5B5C38-A645-43F3-A689-95AE0840A571/f:NUnit2ReportTask.cs" caret="195" fromTop="5" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.9\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="BuildElement" priority="0" />
+      <Item value="XslCompiledTransform`0" priority="0" />
+      <Item value="override" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Xsl.XslCompiledTransform">
+      <Item value="Transform`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

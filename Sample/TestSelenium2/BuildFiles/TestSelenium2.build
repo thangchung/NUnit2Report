@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<project name="TestSelenium2" default="testselenium2" basedir=".">
+	<!-- Init Nant properties -->
+	<tstamp property="build.date" pattern="dd-MM-yyyy" verbose="true"/>
+	<sysinfo/>
+
+	<target name="testselenium2">
+		
+		<nunit2report out="Nunit-Report.html" >	
+			<fileset>
+				<includes name="../TestResult.xml" />			
+			</fileset>
+		</nunit2report>
+
+		<!-- The same report with frame -->
+		<nunit2report format="frames" todir="NUnit-Frame-Report">
+			<fileset>
+				<includes name="../TestResult.xml" />
+			</fileset>
+		</nunit2report>
+
+		<echo message="NUnit report generated."/>		
+	</target>
+
+ </project>

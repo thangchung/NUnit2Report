@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1006]D:\ThangChung\OSS\NUnit2Report_git\Sample\TestSelenium2\bin\Debug\TestSelenium2.dll</TopNode>
+  <SelectedNode>[0-1006]D:\ThangChung\OSS\NUnit2Report_git\Sample\TestSelenium2\bin\Debug\TestSelenium2.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1006]D:\ThangChung\OSS\NUnit2Report_git\Sample\TestSelenium2\bin\Debug\TestSelenium2.dll" Expanded="true">
+      <Nodes>
+        <Node UniqueName="[0-1008]TestSelenium1" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-1004]TestSelenium1.Scenario0000" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-1005]TestSelenium1.Scenario0000.TC001_VerifyDatainCountryLivingSite" />
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+        <Node UniqueName="[0-1007]TestSelenium2" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-1002]TestSelenium2.Scenario0001" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-1003]TestSelenium2.Scenario0001.TC001_TestSearchGoogleForTheAutomatedTester" />
+              </Nodes>
+            </Node>
+            <Node UniqueName="[0-1000]TestSelenium2.Scenario0002" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-1001]TestSelenium2.Scenario0002.TC001_TestSearchGoogleForTheAutomatedTester_Firefox" />
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+      </Nodes>
+    </Node>
+  </Nodes>
+</VisualState>
